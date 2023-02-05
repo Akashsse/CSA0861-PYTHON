@@ -63,5 +63,3 @@ size = len(arr)
   
 # Calling the minJumps function
 print("Minimum number of jumps to reach end is % d " % minJumps(arr, size))
- 
-# This code is contributed by Aditi Sharma
